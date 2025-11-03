@@ -1,4 +1,7 @@
 # Power BI Sales Dashboard
+## 🖼️ Dashboard Preview
+![DashBoard Output](Dash_Output.png)
+
 
 📝 Overview
 
@@ -87,5 +90,3 @@ This Power BI dashboard provides a comprehensive analysis of sales performance a
 .Enabled management to focus marketing and supply efforts more effectively.
 
 
-## 🖼️ Dashboard Preview
-![DashBoard Output](Dash_Output.png)
