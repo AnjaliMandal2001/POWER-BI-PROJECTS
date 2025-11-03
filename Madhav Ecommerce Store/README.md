@@ -9,15 +9,15 @@ This Power BI dashboard provides a comprehensive analysis of sales performance a
 
 🎯 Objectives
 
-. Visualize statewise sales performance using interactive maps and charts.
+-> Visualize statewise sales performance using interactive maps and charts.
 
-. Identify top-performing and underperforming states.
+-> Identify top-performing and underperforming states.
 
-. Analyze sales trends over time (monthly/quarterly/yearly).
+-> Analyze sales trends over time (monthly/quarterly/yearly).
 
-. Track key metrics such as total sales, average sales per state, and sales growth rate.
+-> Track key metrics such as total sales, average sales per state, and sales growth rate.
 
-. Enable users to filter and drill down by state, category, or time period.
+-> Enable users to filter and drill down by state, category, or time period.
 
 📂 Data Sources
 
@@ -32,61 +32,60 @@ This Power BI dashboard provides a comprehensive analysis of sales performance a
 
 🧮 Key Metrics & KPIs
 
-. Total Sales
+-> Total Sales
 
-. Average Sales per State
+-> Average Sales per State
 
-.Total Quantity Sold
+-> Total Quantity Sold
 
-. Sales Growth %
+-> Sales Growth %
 
-.Top 5 States by Sales
+-> Top 5 States by Sales
 
-. Top 5 Customer Name by Sales
+-> Top 5 Customer Name by Sales
 
 
 
 📈 Visuals Included
 
-.Statewise Sales Map (filled map or choropleth)
+->Statewise Sales Map (filled map or choropleth)
 
-.Sales Trend Line Chart (over time)
+->Sales Trend Line Chart (over time)
 
-.Category-wise Sales Bar Chart
+->Category-wise Sales Bar Chart
 
-.Top States Table
+->Top States Table
 
-.KPI Cards showing total sales, growth rate, etc.
+->KPI Cards showing total sales, growth rate, etc.
 
-.Filters/Slicers for year, region, or product category
+->Filters/Slicers for year, region, or product category
 
 
 ⚙️ Tools & Technologies
 
-.Power BI Desktop
+->Power BI Desktop
 
-.Data Source: Excel / CSV / SQL Server / API (specify yours)
+->Data Source: Excel / CSV / SQL Server / API (specify yours)
 
-.Power Query for data cleaning and transformation
-
+->Power Query for data cleaning and transformation
 
 🚀 Features
 
-.Interactive filters for time period, state, and category
+->Interactive filters for time period, state, and category
 
-.Dynamic tooltips and drill-through pages
+->Dynamic tooltips and drill-through pages
 
-.Easy-to-understand visual storytelling
+->Easy-to-understand visual storytelling
 
-.Custom color themes for readability
+->Custom color themes for readability
 
 
 📊 Insights Gained
 
-.Identified top-performing states contributing major revenue.
+->Identified top-performing states contributing major revenue.
 
-.Found seasonal trends and growth opportunities in low-performing regions.
+->Found seasonal trends and growth opportunities in low-performing regions.
 
-.Enabled management to focus marketing and supply efforts more effectively.
+->Enabled management to focus marketing and supply efforts more effectively.
 
 
